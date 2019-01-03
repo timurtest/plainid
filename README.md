@@ -25,7 +25,7 @@ appropriate. Good solutions should take into account:
 * Expressiveness in the design
 * Correctness of random initial board generation algorithm implementation
 
-# Submitting
+## Submitting
 Push your entire solution to a Github repo under your account
 Send us a link to your repo
 
